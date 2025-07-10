@@ -61,10 +61,10 @@
 ---
 
 ## ✨ Fun Facts:
-- 🏋️‍♀️ Fitness & health enthusiast — balancing mind & body
-- 📊 Loves data, coding & discovering hidden insights
-- ✈️ Emotional, fun-loving & always ready to explore new places
-- 💻 Enjoys turning ideas into reality with a touch of style & sparkle
+- 🏋️‍♀️ Fitness & health enthusiast — balancing mind & body  
+- 📊 Loves data, coding & discovering hidden insights  
+- ✈️ Emotional, fun-loving & always ready to explore new places  
+- 💻 Enjoys turning ideas into reality with a touch of style & sparkle  
 
 ---
 
