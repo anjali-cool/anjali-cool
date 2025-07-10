@@ -1,8 +1,8 @@
 <h1 align="center">Hi 🤭, I'm Anjali!</h1>
-<h3 align="center">✨ Data Diva | Dream Analyst | Stylish Engineer 😎</h3>
+<h3 align="center">✨ Dream Analyst | Data Explorer | Healthy & Happy 😎</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F70A85&center=true&vCenter=true&multiline=true&width=700&height=100&lines=💻+Fitness+%2B+Beauty+%2B+Tech+%7C+Living+the+Dream;📊+Exploring+data%2C+code%2C+travel%2C+and+life+with+style+and+heart!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F70A85&center=true&vCenter=true&multiline=true&width=700&height=100&lines=💻+Fitness+%2B+Beauty+%2B+Tech+%7C+Living+the+Dream;📊+Exploring+data%2C+code%2C+travel+and+life+with+style+and+heart!" alt="Typing SVG">
 </p>
 
 ---
